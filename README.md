@@ -148,7 +148,7 @@ jupyter lab
 jupyter notebook
 ```
 
-Open `Student_SupermarketAnalytics.ipynb` and run all cells sequentially (top → bottom).  
+Open `SupermarketAnalytics.ipynb` and run all cells sequentially (top → bottom).  
 This will:
 
 - Train and save the XGBoost churn model (`churn_model_xgb.pkl`)
