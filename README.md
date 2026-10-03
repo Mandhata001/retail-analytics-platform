@@ -115,7 +115,7 @@ retail-analytics-platform/
 ### 1. Clone / Download the project
 
 ```bash
-git clone https://github.com/yourname/retail-analytics-platform.git
+git clone [https://github.com/Mandhata001/retail-analytics-platform]
 cd retail-analytics-platform
 ```
 
